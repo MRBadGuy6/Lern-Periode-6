@@ -7,7 +7,7 @@ In dieser Lernperiode werde ich die Themen von Modulen repetieren damit ich mich
 # Arbeitspakete 
 
 - [ ] C# Theorie Repetieren
-- [ ] KLassen und Objekte repetieren 
+- [ ] Klassen und Objekte repetieren 
 - [ ] Modul 320 Aufgabe 4 Lösen
 - [ ] Modul 320 AUfgabe 5 Lösen
       
