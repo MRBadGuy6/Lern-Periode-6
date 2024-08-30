@@ -23,3 +23,6 @@ Ich habe grosse Fortschritte gemacht, aber in diesem Modul voranzukommen ist zie
 Heute habe ich mich mit Modul 231 und 320 befasst. Ich bin aber noch nicht ganz mit Aufgabe 9 fertig weil es noch ein paar Fehler gibt die ich beheben muss. Nächstes Mal werde ich weider anModul 320 arbeiten. 
 
 # 6.9.24
+
+- [ ] Aufgabe 9 fertig lösen
+- [ ] Modul 320 Aufgabe 10
