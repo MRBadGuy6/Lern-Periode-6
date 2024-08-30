@@ -20,4 +20,6 @@ Ich habe grosse Fortschritte gemacht, aber in diesem Modul voranzukommen ist zie
 - [x] Modul 231 Aufgabe 11
 - [ ] Modul 231 Aufgabe 14
       
-Heute habe ich mich mit Modul 231 und 320 befasst. Ich bin aber noch nicht ganz mit Aufgabe 9 fertig weil es noch ein paar Fehler gibt die ich beheben muss. 
+Heute habe ich mich mit Modul 231 und 320 befasst. Ich bin aber noch nicht ganz mit Aufgabe 9 fertig weil es noch ein paar Fehler gibt die ich beheben muss. Nächstes Mal werde ich weider anModul 320 arbeiten. 
+
+# 6.9.24
