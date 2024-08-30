@@ -16,7 +16,7 @@ Ich habe grosse Fortschritte gemacht, aber in diesem Modul voranzukommen ist zie
 # 30.8.24
 
 - [ ] KLassen und Objekte Repetieren 
-- [ ] Modul 320 Augfabe 8 lösen 
+- [ ] Modul 320 Augfabe 9 lösen 
 - [ ] Modul 231 Aufgabe 11
 - [ ] Modul 231 Aufgabe 14
       
