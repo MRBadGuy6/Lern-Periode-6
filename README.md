@@ -24,5 +24,13 @@ Heute habe ich mich mit Modul 231 und 320 befasst. Ich bin aber noch nicht ganz 
 
 # 6.9.24
 
-- [ ] Aufgabe 9 fertig lösen
-- [ ] Modul 320 Aufgabe 10
+- [x] Aufgabe 9 fertig lösen
+- [x] Modul 320 Aufgabe 10
+
+Heute habe ich grosse Fortschritte gemacht. Ich konnte nicht nur das Programm fertig schreiben sondern ich hatte noch aureuchend Zeit an andere Aufträge für andere Module zu arbeiten. Das nächste mal werde ich weiter an Modul 320 arbeiten und vielleicht noch an anderen Auftäge. Kommt drauf an wie weit ich kommen werde
+
+# 13.9.24 
+
+- [ ] Aufgabe 12 Modul 320 lösen
+- [ ] Objekte und Klasse repetieren
+- [ ] Weitere Aufgaben lösen 
