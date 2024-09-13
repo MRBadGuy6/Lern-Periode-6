@@ -31,6 +31,13 @@ Heute habe ich grosse Fortschritte gemacht. Ich konnte nicht nur das Programm fe
 
 # 13.9.24 
 
-- [ ] Aufgabe 12 Modul 320 lösen
+- [x] Aufgabe 12 Modul 320 lösen
+- [x] Objekte und Klasse repetieren
+- [x] Weitere Aufgaben lösen
+
+Heute habe ich wieder an Modul 320 weitergearbeitet. Ich habe kein Chat GPT benutzt aber Vincent hat mir an gewissen Stellen weiter geholfen, weil ich nicht wusste wie ich einige Punkte in Code umschreiben soll. Ja das ist alles was ich heute gemacht habe. Nächstes Mal werde ich bestimmt weiter an Modul 320 weiterarbeiten. 
+
+# 20.9.24 
+
+- [ ] Aufgabe von Modul 320 lösen
 - [ ] Objekte und Klasse repetieren
-- [ ] Weitere Aufgaben lösen 
