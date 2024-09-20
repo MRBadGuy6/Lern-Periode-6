@@ -39,5 +39,10 @@ Heute habe ich wieder an Modul 320 weitergearbeitet. Ich habe kein Chat GPT benu
 
 # 20.9.24 
 
-- [ ] Aufgabe von Modul 320 lösen
-- [ ] Objekte und Klasse repetieren
+- [x] Aufgabe von Modul 320 lösen
+- [x] Objekte und Klasse repetieren
+
+Heute habe ich an zwei Modulen gearbeitet: M320 und M231. Bei M321 musste ich was über Lizenzen schreiben. Es war einbisschen aufwändig weil der Auftrag 16 Punkte gibt und das viel ist. Bei M320 habe ich am Sequenzdiagramm gearbeitet. Es ist einbisschen schwer zu entzifern aber ich habe immerhin vortschritte gemacht. Nächstes Mal werde ich sicher weiter an M320 arbeiten. 
+
+- [ ] Aufgabe von M320 lösen
+- [ ] Weitere Aufgaben von Modulen lösen 
