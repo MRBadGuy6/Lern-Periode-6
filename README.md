@@ -44,5 +44,7 @@ Heute habe ich wieder an Modul 320 weitergearbeitet. Ich habe kein Chat GPT benu
 
 Heute habe ich an zwei Modulen gearbeitet: M320 und M231. Bei M321 musste ich was über Lizenzen schreiben. Es war einbisschen aufwändig weil der Auftrag 16 Punkte gibt und das viel ist. Bei M320 habe ich am Sequenzdiagramm gearbeitet. Es ist einbisschen schwer zu entzifern aber ich habe immerhin vortschritte gemacht. Nächstes Mal werde ich sicher weiter an M320 arbeiten. 
 
-- [ ] Aufgabe von M320 lösen
-- [ ] Weitere Aufgaben von Modulen lösen 
+- [x] Aufgabe von M320 lösen
+- [x] Weitere Aufgaben von Modulen lösen
+
+Heute habe ich weiter an Modul 320 weitergearbeitet. Also ich habe ein Paar Aufgaben angesehen und sie versucht nochmal zu lösen, um sicher zu gehen, dass ich es noch kann. Als Hilfmittel habe ich die Powerpoint und ChatGBT benutzt. An sich war das eine interessante Lernperiode, weil ich hauptäschlich nur repetiert habe. Aber natürlich hat das was gebracht weil ich in diesen Stunden diese Aufgaben fertig lösen konnte. Die nöchste LP wird sicher ähnlich ablaufen weil das ziemlich hilfreich und praktisch für mich ist.  
